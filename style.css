@@ -1,0 +1,49 @@
+.el1 {width: 315px;
+    height: 19px;
+    top: 71px;
+    left: 315px;
+    text-align: center;
+    } 
+    .el2 {width: 315px;
+        height: 19px;
+        top: 71px;
+        left: 485px;
+        text-align: center;
+        } 
+        .el3 {width: 315px;
+            height: 19px;
+            top: 71px;
+            left: 674px;
+            text-align: center;
+            } 
+            .el4 {width: 315px;
+                height: 19px;
+                top: 71px;
+                left: 818px;
+                text-align: center;
+                }
+                .card-group {display: flex;
+                flex-wrap: wrap;
+            } 
+            .card {margin-left: 120px;}  
+            .card1 {margin-left: 120px;}
+            .card-topic {color: gainsboro;} 
+            .card-title {color: darkgrey;
+            font-family: Georgia, 'Times New Roman', Times, serif;}
+            .card-group1  {display: flex;
+            flex-wrap:wrap ;
+        }
+        .card2 {margin-left: 120px;}
+        .card3 {margin-left: 120px;} 
+        .card-group2 {display: flex;
+        flex-wrap: wrap;}
+        .card4  {margin-left: 120px;
+        }
+        .card5 {margin-left: 120px;}
+        .card-text {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+        .card-topic {font-family: 'Times New Roman', Times, serif;} 
+        .el1,el2,el3,el4 {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+        .button {text-align: center;
+        margin-left: auto;
+    justify-content: center;
+padding: 20px;}   
